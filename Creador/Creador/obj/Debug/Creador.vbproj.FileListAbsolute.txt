@@ -1,0 +1,12 @@
+C:\Users\Moro\AppData\Local\Temporary Projects\Creador\bin\Debug\Creador.exe.config
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\bin\Debug\Creador.exe.config
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\bin\Debug\Creador.exe
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\bin\Debug\Creador.pdb
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\bin\Debug\Creador.xml
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\obj\Debug\Creador.vbprojResolveAssemblyReference.cache
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\obj\Debug\Creador.Crear.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\obj\Debug\Creador.Resources.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\obj\Debug\Creador.vbproj.GenerateResource.Cache
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\obj\Debug\Creador.exe
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\obj\Debug\Creador.xml
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Creador\Creador\obj\Debug\Creador.pdb

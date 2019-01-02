@@ -1,0 +1,16 @@
+C:\Users\Moro\AppData\Local\Temporary Projects\Administrador\bin\Debug\Administrador.exe.config
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\bin\Debug\Administrador.exe.config
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\bin\Debug\Administrador.exe
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\bin\Debug\Administrador.pdb
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\bin\Debug\Administrador.xml
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.vbprojResolveAssemblyReference.cache
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.FConsultasPlatillos.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.FConsultasVentas.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.FInicio.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.FMenu.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.Resources.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.vbproj.GenerateResource.Cache
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.exe
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.xml
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.pdb
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Administrador\Administrador\obj\Debug\Administrador.FAgregarUsuarios.resources

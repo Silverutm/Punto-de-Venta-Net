@@ -1,0 +1,15 @@
+C:\Users\Moro\AppData\Local\Temporary Projects\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.xml
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbprojResolveAssemblyReference.cache
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.FCobrar.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.FConsultas.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.FInicio.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.FVentas.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto_de_Venta.Resources.resources
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.GenerateResource.Cache
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+C:\Users\Moro\Documents\Visual Studio 2015\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
